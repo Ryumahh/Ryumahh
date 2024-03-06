@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Domingo</h1>
 <p align="center">
-  <kbd>
-    <img src="https://komarev.com/ghpvc/?username=ryumahh&label=Number%20of%20Visitors&color=66ab6e&style=flat" alt="ryumahh" style="max-width: 100%; height: auto; border: 2px solid #0e75b6; border-radius: 8px;">
-  </kbd>
+  <img src="https://komarev.com/ghpvc/?username=ryumahh&label=Number%20of%20Visitors&color=66ab6e&style=flat" alt="ryumahh">
 </p>
 
 <br/>
