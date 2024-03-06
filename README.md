@@ -37,8 +37,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
 <a href="#">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ryumahh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ryumahh&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ryumahh&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=c73848&icon_color=aba268"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ryumahh&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=c73848"/>
 </a>
 </p>
 
