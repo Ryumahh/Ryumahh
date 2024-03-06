@@ -21,5 +21,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Ryumahh">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryumahh&layout=compact&theme=dark" alt="Ryumahh" />
+  </a>
 </p>
