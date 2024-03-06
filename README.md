@@ -42,6 +42,6 @@
 
 <p align="center">
   <a href="#">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryumahh&layout=compact&theme=dark" alt="Ryumahh" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryumahh&layout=compact&theme=synthwave" alt="Ryumahh" />
   </a>
 </p>
