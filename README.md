@@ -33,7 +33,7 @@
   </a>
 </div>
 
- <hr/>
+ <br/><br/>
 
 <h2 align="center">⚙️ Tech Stack:</h2>
 <div align="center">
@@ -45,7 +45,7 @@
 
 </div>
 
-<hr/>
+<br/><br/>
 
 <h2 align="center">📈 GitHub Stats:</h2>
 <p align="center">
