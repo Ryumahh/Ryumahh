@@ -1,5 +1,5 @@
 name: GitHub-Profile-3D-Contrib
-
+export GITHUB_TOKEN=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
 on:
   schedule:
     - cron: "0 18 * * *"
@@ -13,8 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Ryumahh
       - name: Commit & Push
         run: |
