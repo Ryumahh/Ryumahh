@@ -8,7 +8,7 @@
 
 <h2 align="center">🙋🏻‍♂️ About me</h2>
 
-<h4 align="center">
+<h5 align="center">
 ✦ I'm a passionate front-end developer, finding immense joy and satisfaction in the ever-changing world of technology. 🚀
   <br/><br/>
 ✦ My journey in this dynamic field spans as far back as I can remember, and my enthusiasm continues to grow with each passing day. 🌱
@@ -16,7 +16,7 @@
 ✦ Exploring the intricate realms of web development, I thrive on the challenges that come with crafting seamless and visually appealing user experiences. 🔧
   <br/><br/>
 ✦ It's not just a career for me; it's a lifelong fascination that fuels my dedication to staying at the forefront of technological advancements. 🌐
-</h4>
+</h5>
 
 <br/>
   <p align="center">💬 Contact with me:</p>
