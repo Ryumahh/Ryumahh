@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&size=31&duration=2000&pause=3000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+my+profile+!+;%F0%9F%8C%90+I'm+a+Web+Developer+%F0%9F%96%A5%EF%B8%8F;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBAlways+learning+and+embracing+the+ever-evolving+tech+world;%E2%87%A9+More+info+about+me+down+here+%E2%87%A9;Huhh...+You+still+reading+this%3F...+%F0%9F%A4%94;I+have+to+restart+the+loop...+%F0%9F%94%84;I'll+restart+the+loop+now+%F0%9F%9A%80%F0%9F%92%AB)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryumahh&label=Visitors&color=789457&style=for-the-badge" alt="ryumahh">
+  <img src="https://komarev.com/ghpvc/?username=ryumahh&label=👁️%20Visitors%20%20%20&color=789457&style=for-the-badge" alt="ryumahh">
 </p>
-
 
 <br/>
 
