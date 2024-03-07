@@ -1,5 +1,5 @@
 name: GitHub-Profile-3D-Contrib
-export GITHUB_TOKEN=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
+export GITHUB_TOKEN=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
 on:
   schedule:
     - cron: "0 18 * * *"
