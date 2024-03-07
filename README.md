@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&size=31&duration=2000&pause=3000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+my+profile+!+;%F0%9F%8C%90+I'm+a+Web+Developer+%F0%9F%96%A5%EF%B8%8F;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBAlways+learning+and+embracing+the+ever-evolving+tech+world;%E2%87%A9+More+info+about+me+down+here+%E2%87%A9;Huhh...+You+still+reading+this%3F...+%F0%9F%A4%94;I+have+to+restart+the+loop...+%F0%9F%94%84;I'll+restart+the+loop+now+%F0%9F%9A%80%F0%9F%92%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&size=31&duration=2000&pause=3000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+my+profile+!+;%F0%9F%8C%90+I'm+a+Web+Developer+%F0%9F%96%A5%EF%B8%8F;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBAlways+learning+and+embracing+the+ever-evolving+tech+world;%E2%87%A9+More+info+about+me+down+here+%E2%87%A9;Huhh...+You+still+reading+this%3F...+%F0%9F%A4%94;I+have+to+restart+this+loop...+%F0%9F%94%84;I'll+restart+this+loop+now+%F0%9F%9A%80%F0%9F%92%AB)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ryumahh&label=🔎%20Visitors%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&color=789457&style=for-the-badge" alt="ryumahh">
@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2 align="center">⚡ About me ⚡</h2>
+<h2 align="center">🙋🏻‍♂️ About me</h2>
 
 <h4 align="center">
 ✦ I'm a passionate front-end developer, finding immense joy and satisfaction in the ever-changing world of technology. 🚀
@@ -19,7 +19,7 @@
 </h4>
 
 <br/>
-  <p align="center">Contact with me:</p>
+  <p align="center">💬 Contact with me:</p>
   
 <div align="center"> 
   <a href="mailto:jdcgcontact@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -35,7 +35,7 @@
 
  <hr/>
 
-<h2 align="center">💻 Tech Stack:</h2>
+<h2 align="center">⚙️ Tech Stack:</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,bootstrap,tailwind,vscode,figma,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,mongodb,java,mysql,aws,npm,wordpress,less,sass,selenium" /><br>
@@ -47,7 +47,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📈 GitHub Stats:</h2>
 <p align="center">
 <a href="#">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryumahh&theme=radical&hide_border=true""/>
