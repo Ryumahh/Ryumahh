@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: Ryumahh
       - name: Commit & Push
         run: |
