@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2 align="center">🙋🏻‍♂️ About me:</h2>
+<h2 align="center">🙋🏻‍♂️ About me!:</h2>
 
 <h4 align="center">
 ✦ I'm a passionate front-end developer, finding immense joy and satisfaction in the ever-changing world of technology. 🚀
