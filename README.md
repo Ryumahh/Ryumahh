@@ -9,7 +9,7 @@
 <h2 align="center">🙋🏻‍♂️ About me:</h2>
 
 <h4 align="center">
-✦ I'm a passionate front-end developer, finding immense joy and satisfaction in the ever-changing world of technology. 🚀
+✦ I'm a passionate full-stack developer, finding immense joy and satisfaction in the ever-changing world of technology. 🚀
   <br/><br/>
 ✦ My journey in this dynamic field spans as far back as I can remember, and my enthusiasm continues to grow with each passing day. 🌱
   <br/><br/>
